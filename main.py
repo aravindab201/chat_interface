@@ -45,7 +45,7 @@ def get_groq_response(question):
 st.title("Christiano Ronaldo Chatbot")
 
 # Display an image placeholder
-st.image("ronaldo.jpg", width=700, caption="Christiano Ronaldo")
+st.image("Ronaldo.jpg", width=700, caption="Christiano Ronaldo")
 
 # Adjust CSS for padding and text wrapping
 st.markdown("""
