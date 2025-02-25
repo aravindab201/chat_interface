@@ -15,7 +15,7 @@ MODEL = 'llama3-70b-8192'
 conversation = [
     {
         "role": "system",
-        "content": "You are a chat bot designed only to answer questions about footballer Christiano Ronaldo. You do not know anything else. If someone asks questions on topics apart from Christiano Ronaldo, just say you don't know."
+        "content": "You are a chat bot designed to answer anykind of questions about indian cinema industry"
     }
 ]
 
